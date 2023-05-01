@@ -19,7 +19,7 @@
     "typescript": "^5.0.4"
   },
   "bin": {
-    "first-testing-express-server": "generate-app.js"
+    "first-testing-express-server": "./bin/generate-app.js"
   },
   "main": "index.js",
   "devDependencies": {},
