@@ -19,7 +19,7 @@
     "typescript": "^5.0.4"
   },
   "bin": {
-    "create-boilerplate": "generate-app.js"
+    "create-my-boilerplate": "generate-app.js"
   },
   "main": "index.js",
   "devDependencies": {},
