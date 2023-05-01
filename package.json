@@ -1,6 +1,6 @@
 {
   "name": "first-testing-express-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My first testing  express server boilerplate",
   "scripts": {
     "dev": "ts-node-dev ./src/main.ts",
